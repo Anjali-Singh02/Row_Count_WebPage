@@ -148,7 +148,7 @@ p {
     .container {
         width: 60%;
         height: 50vh;
-        margin: 5% 20% 0 30%;
+        margin: 60px auto;
         align-items: center;
         background-color: rgb(82, 162, 180);
         border: 2px solid black;
